@@ -1,0 +1,14 @@
+.message{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    align-items: center;
+    margin-left: 30%;
+    margin-top: 5%;
+}
+.message label{
+    margin-top: 2%;
+}
+.message input{
+    margin-top: 5%;
+}
